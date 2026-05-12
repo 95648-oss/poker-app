@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "poker-client",
+      "runtimeExecutable": "node_modules\\.bin\\vite.cmd",
+      "runtimeArgs": [],
+      "port": 5173,
+      "cwd": "client"
+    }
+  ]
+}
